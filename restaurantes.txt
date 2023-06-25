@@ -1,0 +1,81 @@
+Direccion1
+Calle numero 1
+www.comirapida1.com
+https://goo.gl/maps/DUmVjnSZeX6Y9n448
+36.720123
+-4.418562
+Centro An
+Carnes a la parrilla, ensaladas, postres caseros
+20
+Direccion2
+Calle numero 2
+www.comirapida2.com
+https://goo.gl/maps/DUmVjnSZeX6Y9n448
+36.720982
+-4.419782
+Centro An
+Tapas variadas, paella, vinos locales
+15
+Direccion3
+Calle numero 3
+www.comirapida3.com
+https://goo.gl/maps/DUmVjnSZeX6Y9n448
+36.70783
+-4.411243
+Malagueta
+Pescados frescos, mariscos, postres mediterráneos
+18
+Direccion4
+Calle numero 4
+www.comirapida4.com
+https://goo.gl/maps/DUmVjnSZeX6Y9n448
+36.723528
+-4.413619
+Centro An
+Cocina internacional, sushi, cócteles
+18
+Direccion5
+Calle numero 5
+www.comirapida5.com
+https://goo.gl/maps/DUmVjnSZeX6Y9n448
+36.723931
+-4.422795
+Centro An
+Gazpacho, pescaíto frito, flamenco en vivo
+25
+Direccion6
+Calle numero 6
+www.comirapida6.com
+https://goo.gl/maps/7D3ZfpgNSNE4nK9f9
+36.721957
+-4.405479
+Malagueta
+Mariscos frescos, arroces, postres caseros
+30
+Direccion7
+Calle numero 7
+www.comirapida7.com
+https://goo.gl/maps/XkwULYoNpmL4sEaM8
+36.723611
+-4.422222
+Centro An
+Tapas tradicionales, carnes a la brasa, flamenco en vivo
+25
+Direccion8
+Calle numero 8
+www.comirapida8.com
+https://goo.gl/maps/xDQ6rFesMScyNQpE8
+36.62203
+-4.503851
+Malagueta
+Mariscos frescos, pescados a la parrilla, postres de la casa
+35
+Direccion9
+Calle numero 9
+www.comirapida9.com
+https://goo.gl/maps/xPuh6HsyiH3vjMyFA
+36.76841
+-4.442149
+Malagueta
+Cocina de autor, vistas panorámicas, menú degustación
+40
